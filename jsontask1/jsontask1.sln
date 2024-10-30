@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsontask1", "jsontask1\jsontask1.csproj", "{630E7E90-7A1D-491D-A91E-D1BD1E474ACE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{630E7E90-7A1D-491D-A91E-D1BD1E474ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630E7E90-7A1D-491D-A91E-D1BD1E474ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630E7E90-7A1D-491D-A91E-D1BD1E474ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630E7E90-7A1D-491D-A91E-D1BD1E474ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62437A4F-E0EF-4EC8-BDD9-60124712238F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\jsontask1.exe
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\jsontask1.deps.json
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\jsontask1.runtimeconfig.json
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\jsontask1.dll
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\jsontask1.pdb
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.AssemblyInfo.cs
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.csproj.CopyComplete
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.dll
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\refint\jsontask1.dll
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.pdb
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\jsontask1.genruntimeconfig.cache
+C:\Users\user\Desktop\JSON task\jsontask1\jsontask1\obj\Debug\net6.0\ref\jsontask1.dll
